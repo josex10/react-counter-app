@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing component Hello World 2 Should be a match with the snapshot 1`] = `
+<div>
+  <h1
+    data-testid="test-title"
+  >
+    Hello World from test
+  </h1>
+  <p>
+    Without subtitle prop - default
+  </p>
+  <p>
+    Jose Manuel Badilla Porras - default
+  </p>
+</div>
+`;
